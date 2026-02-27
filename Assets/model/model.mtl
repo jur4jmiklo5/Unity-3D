@@ -1,0 +1,88 @@
+# exported by https://3dviewer.net
+newmtl Roofing_Scalloped
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Roofing_Scalloped.jpg
+newmtl Translucent_Glass_Blue
+Kd 0.12549019607843137 0.30196078431372547 0.8470588235294118
+d 0.5019608
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+newmtl Polished_Concrete_Old
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Polished_Concrete_Old.jpg
+newmtl Polished_Concrete_New
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Polished_Concrete_New.jpg
+newmtl Steel_Brushed_Stainless
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Steel_Brushed_Stainless.jpg
+newmtl Steel_Brushed_Stainless_0
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Steel_Brushed_Stainless_0.jpg
+newmtl Wood_Cherry_Original
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Wood_Cherry_Original.jpg
+newmtl material
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+newmtl _0119_RosyBrown
+Kd 0.5019607843137255 0.27450980392156865 0.27450980392156865
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+newmtl Polished_Concrete_Old_1
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Polished_Concrete_Old_1.jpg
+newmtl __Cladding_Stucco_White_1
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd __Cladding_Stucco_White_1.jpg
+newmtl Color_A08
+Kd 0.13333333333333333 0 0
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+newmtl Roofing_Metal_Standing_Seam_Red
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+map_Kd Roofing_Metal_Standing_Seam_Red.jpg

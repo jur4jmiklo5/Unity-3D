@@ -2,6 +2,10 @@
 
 Unity project focused on interactive 3D environment design, gameplay scripting.
 
+## Demo video
+
+https://drive.google.com/file/d/1ynZRimQpbfrp47z82RUtphxk7UWx2YKW/view?usp=sharing
+
 ## Project Highlights
 
 - Built with Unity `2019.4.14f1` (LTS)
